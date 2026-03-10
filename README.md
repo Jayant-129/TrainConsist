@@ -5,3 +5,4 @@
  Use Case 3: Track Unique Bogie IDs
  Use Case 4: Maintain Ordered Bogie IDs
  Use Case 5: Preserve Insertion Order of Bogies
+ Use Case 6: Map Bogie to Capacity
