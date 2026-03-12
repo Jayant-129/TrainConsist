@@ -16,3 +16,4 @@
  - Use Case 14: Handle Invalid Bogie Capacity
  - Use Case 15: Safe Cargo Assignment
  - Use Case 16: Manual Sorting using Bubble Sort
+ - Use Case 17: Sort Bogie Names
