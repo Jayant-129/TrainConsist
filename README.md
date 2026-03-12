@@ -11,3 +11,4 @@
  - Use Case 9: Group Bogies by Type
  - Use Case 10: Count Total Seats in Train
  - Use Case 11: Validate Train ID and Cargo Code
+ - Use Case 12: Safety Compliance Check
