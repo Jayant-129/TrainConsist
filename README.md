@@ -8,3 +8,4 @@
  - Use Case 6: Map Bogie to Capacity
  - Use Case 7: Sort Passenger Bogies by Capacity
  - Use Case 8: Filter Passenger Bogies using Streams
+ - Use Case 9: Group Bogies by Type
