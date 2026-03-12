@@ -7,3 +7,4 @@
  - Use Case 5: Preserve Insertion Order of Bogies
  - Use Case 6: Map Bogie to Capacity
  - Use Case 7: Sort Passenger Bogies by Capacity
+ - Use Case 8: Filter Passenger Bogies using Streams
