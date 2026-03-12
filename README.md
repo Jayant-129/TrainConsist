@@ -10,3 +10,4 @@
  - Use Case 8: Filter Passenger Bogies using Streams
  - Use Case 9: Group Bogies by Type
  - Use Case 10: Count Total Seats in Train
+ - Use Case 11: Validate Train ID and Cargo Code
