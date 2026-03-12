@@ -13,3 +13,5 @@
  - Use Case 11: Validate Train ID and Cargo Code
  - Use Case 12: Safety Compliance Check
  - USe Case 13: Performance Comparision
+ - Use Case 14: Handle Invalid Bogie Capacity
+ - Use Case 15: Safe Cargo Assignment
