@@ -19,3 +19,4 @@
 - Use Case 17: Sort Bogie Names
 - Use Case 18: Sort Bogie Capacities
 - Use Case 19: Binary Search for Bogie ID
+- Use Case 20: Exception Handling During Search
